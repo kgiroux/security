@@ -1,0 +1,13 @@
+authorization
+ service
+  activation: true
+topic
+ service
+  name: services
+ right
+  name: authorizations
+
+#security
+jwt
+ header: Authorization
+ secret: dofustuff
