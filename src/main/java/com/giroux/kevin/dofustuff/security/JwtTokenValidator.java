@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 /**
  * Validateur du token JWT
  * 
- * @author scadot
+ * @author kgiroux
  *
  */
 @Component

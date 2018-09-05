@@ -21,7 +21,7 @@ import io.jsonwebtoken.Claims;
 /**
  * Classe permettant de vérifier la validité du token fournit
  * 
- * @author scadot
+ * @author kgiroux
  *
  */
 @Component

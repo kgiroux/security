@@ -6,7 +6,7 @@ public enum ErrorAuthorizationCode {
 	 */
 	ERR_AUTHORIZATION_001,
 	/**
-	 * Error when object data is null;
+	 * Error when users data is null;
 	 */
 	ERR_AUTHORIZATION_002,
 	/**

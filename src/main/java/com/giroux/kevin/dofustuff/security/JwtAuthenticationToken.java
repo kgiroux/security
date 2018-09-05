@@ -6,7 +6,7 @@ import org.springframework.security.authentication.UsernamePasswordAuthenticatio
  * DTO juste pour contenir le token (les autres champs ne sont pas utilisés mais
  * sont nécessaires pour la classe mère)
  * 
- * @author scadot
+ * @author kgiroux
  *
  */
 public class JwtAuthenticationToken extends UsernamePasswordAuthenticationToken {

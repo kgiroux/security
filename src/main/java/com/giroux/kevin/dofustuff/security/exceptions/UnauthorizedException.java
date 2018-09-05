@@ -21,7 +21,7 @@ public class UnauthorizedException extends RuntimeException {
      * Pass a message for the exception
      *
      */
-    public UnauthorizedException() {
-        super();
+    public UnauthorizedException(final String pMessage) {
+        super(pMessage);
     }
 }
